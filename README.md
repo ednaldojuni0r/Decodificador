@@ -1,2 +1,2 @@
 # Decodificador
-Projeto de Criaação de um Decodificador de Texto
+Projeto de Criação de um Decodificador de Texto.
